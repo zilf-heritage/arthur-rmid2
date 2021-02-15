@@ -6,19 +6,7 @@ This repository contains source code and other files which were, as far as anyon
 
 ## Where did it come from?
 
-The contents of this repository were imported from [a zip file](https://eblong.com/infocom/sources/arthur-rmid2.zip) hosted on [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/).
-
-There are other public sources of this material available on the internet.
-
-| Primary Source      | Secondary Source           | Ultimate Source *        |
-|:-------------------:|:--------------------------:|:------------------------:|
-| [imported zip file] | [Historical Source (copy)] | [Infocom Sources (copy)] |
-
-[imported zip file]: https://eblong.com/infocom/sources/arthur-rmid2.zip
-[Historical Source (copy)]: https://github.com/zil-legacy/arthur-historicalsource/tree/bb844e2047cf082f958ba102ba8aadb5caec2f4f
-[Infocom Sources (copy)]: https://github.com/zil-legacy/infocom-sources/tree/master/development/arthur/older
-
-\* This comes from a partial, source code only archive of "The Infocom Drive".
+This repository was forked from [zil-legacy/arthur-rmid2-eblong](https://github.com/zil-legacy/arthur-rmid2-eblong).
 
 ## What is it for?
 
